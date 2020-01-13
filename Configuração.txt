@@ -1,0 +1,3 @@
+Usuário padrão: admin senha: admin
+
+ configure o arquivo: DBConect.php com o usuario e senha do seu banco
